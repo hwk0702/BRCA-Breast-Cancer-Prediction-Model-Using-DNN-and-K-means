@@ -52,7 +52,7 @@ When SVM kernel is sigmoid and DNN solver is adman and sgd, it is not classified
 
 For use in the DNN model, the Labels array is changed to a two-dimensional array, and the column vectors are replaced by row vectors.
 
-<img src='/img/BRCA2.PNG' width='400'>
+<img src='/img/BRCA2.png' width='400'>
 
 ②	One-Hot-Encoding
 
